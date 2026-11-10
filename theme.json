@@ -1,0 +1,193 @@
+{
+  "SchemaVersion": 2,
+  "MinWoxVersion": "2.4.5",
+  "ThemeId": "25506f7f-e0d9-4bc0-87ad-9e489cb83af6",
+  "ThemeName": "i18n:theme_name",
+  "Description": "i18n:theme_description",
+  "Version": "1.0.3",
+  "I18n": {
+    "en_US": {
+      "theme_name": "8-Bit Night",
+      "theme_description": "A navy pixel-art launcher with stepped frames and ice-blue, mint, and gold accents."
+    },
+    "zh_CN": {
+      "theme_name": "像素夜航",
+      "theme_description": "深蓝底色、阶梯形像素边框，点缀冰蓝、薄荷绿和金黄。"
+    },
+    "ru_RU": {
+      "theme_name": "8-битная ночь",
+      "theme_description": "Тёмно-синяя тема в пиксельном стиле со ступенчатой рамкой и голубыми, мятными и золотыми акцентами."
+    },
+    "pt_BR": {
+      "theme_name": "Noite de 8 bits",
+      "theme_description": "Tema azul-marinho em pixel art com moldura escalonada e detalhes em azul-gelo, verde-menta e dourado."
+    },
+    "ko_KR": {
+      "theme_name": "8비트의 밤",
+      "theme_description": "계단형 픽셀 테두리와 얼음빛 파랑, 민트색, 금색으로 꾸민 짙은 남색 테마입니다."
+    },
+    "ja_JP": {
+      "theme_name": "8ビットの夜",
+      "theme_description": "濃紺に階段状のドット枠を重ね、アイスブルー、ミント、金色を添えたテーマ。"
+    }
+  },
+  "BaseBackgroundColor": "#19223A",
+  "BaseTextColor": "#EEF6FF",
+  "BaseAccentColor": "#9ED9ED",
+  "AppBackgroundColor": "transparent",
+  "OverlayBackgroundColor": "#19223A",
+  "OverlayFontColor": "#EEF6FF",
+  "SuccessColor": "#92E0B2",
+  "WarningColor": "#F1D681",
+  "WarningTextColor": "#F1D681",
+  "AppPaddingLeft": 8,
+  "AppPaddingTop": 4,
+  "AppPaddingRight": 8,
+  "AppPaddingBottom": 0,
+  "QueryBoxBackgroundColor": "#111A2C",
+  "QueryBoxBorderRadius": 0,
+  "QueryBoxCursorColor": "#9ED9ED",
+  "QueryBoxTextSelectionBackgroundColor": "#395983",
+  "QueryBoxTextSelectionColor": "#EEF6FF",
+  "ResultContainerPaddingTop": 8,
+  "ResultContainerPaddingBottom": 8,
+  "ResultItemBorderRadius": 0,
+  "ResultItemPaddingLeft": 13,
+  "ResultItemPaddingRight": 12,
+  "ResultItemSubTitleColor": "#AABBD6",
+  "ResultItemTailTextColor": "#9ED9ED",
+  "ResultItemHoverBackgroundColor": "#23314D",
+  "ResultItemActiveBackgroundColor": "#294469",
+  "ResultItemActiveTitleColor": "#EEF6FF",
+  "ResultItemActiveSubTitleColor": "#CCDDF5",
+  "ResultItemActiveTailTextColor": "#9ED9ED",
+  "ResultItemActiveIndicatorColor": "#92E0B2",
+  "ResultItemActiveIndicatorWidth": 4,
+  "ResultItemActiveIndicatorInsetLeft": 4,
+  "ResultItemActiveIndicatorInsetTop": 5,
+  "ResultItemActiveIndicatorInsetBottom": 5,
+  "ActionContainerBackgroundColor": "#19223AF2",
+  "ActionContainerBorderWidth": 0,
+  "ActionContainerBorderRadius": 0,
+  "ActionContainerDividerColor": "#3C527B",
+  "ActionContainerHeaderFontColor": "#9ED9ED",
+  "ActionItemBorderRadius": 0,
+  "ActionItemActiveBackgroundColor": "#294469",
+  "ActionQueryBoxBackgroundColor": "#111A2C",
+  "ActionQueryBoxBorderRadius": 0,
+  "ActionItemHotkeyFontColor": "#9ED9ED",
+  "ActionItemHotkeyBackgroundColor": "#111A2C",
+  "ActionItemHotkeyBorderColor": "#3C527B",
+  "ActionItemActiveHotkeyFontColor": "#0D1220",
+  "ActionItemActiveHotkeyBackgroundColor": "#81B2F7",
+  "ActionItemActiveHotkeyBorderColor": "#81B2F7",
+  "PreviewBackgroundColor": "#111A2C",
+  "PreviewBorderColor": "#3C527B",
+  "PreviewBorderRadius": 0,
+  "PreviewSplitLineColor": "#3C527B",
+  "PreviewPropertyTitleColor": "#9ED9ED",
+  "PreviewTagBorderRadius": 0,
+  "PreviewTagFontColor": "#0D1220",
+  "PreviewTagBackgroundColor": "#92E0B2",
+  "PreviewTagBorderColor": "#92E0B2",
+  "ToolbarBackgroundColor": "#111A2C",
+  "ToolbarBorderColor": "#3C527B",
+  "ToolbarFontColor": "#AABBD6",
+  "ToolbarHotkeyFontColor": "#9ED9ED",
+  "ToolbarHotkeyBackgroundColor": "#19223A",
+  "ToolbarHotkeyBorderColor": "#3C527B",
+  "ToolbarPrimaryFontColor": "#EEF6FF",
+  "ToolbarPrimaryHotkeyFontColor": "#0D1220",
+  "ToolbarPrimaryHotkeyBackgroundColor": "#F1D681",
+  "ToolbarPrimaryHotkeyBorderColor": "#F1D681",
+  "GlanceFontColor": "#9ED9ED",
+  "GlanceIconColor": "#9ED9ED",
+  "AttentionFontColor": "#F1D681",
+  "AttentionIconColor": "#F1D681",
+  "ScrollbarThumbColor": "#5D7AA7",
+  "ScrollbarThumbHoverColor": "#81B2F7",
+  "ScrollbarThumbActiveColor": "#9ED9ED",
+  "ScrollbarBorderRadius": 0,
+  "Surfaces": {
+    "App": {
+      "ContentInsets": {
+        "Top": 31,
+        "Right": 13,
+        "Bottom": 14,
+        "Left": 13
+      },
+      "Frame": {
+        "Source": "assets/launcher-frame.png",
+        "Mode": "nineSlice",
+        "Slice": {
+          "Top": 62,
+          "Right": 26,
+          "Bottom": 28,
+          "Left": 162
+        },
+        "Insets": {
+          "Top": 31,
+          "Right": 13,
+          "Bottom": 14,
+          "Left": 81
+        }
+      }
+    },
+    "QueryBox": {
+      "Frame": {
+        "Source": "assets/query-frame.png",
+        "Mode": "nineSlice",
+        "Slice": {
+          "Top": 6,
+          "Right": 6,
+          "Bottom": 6,
+          "Left": 6
+        },
+        "Insets": {
+          "Top": 3,
+          "Right": 3,
+          "Bottom": 3,
+          "Left": 3
+        }
+      }
+    },
+    "ResultItemActive": {
+      "Frame": {
+        "Source": "assets/selected-frame.png",
+        "Mode": "nineSlice",
+        "Slice": {
+          "Top": 6,
+          "Right": 6,
+          "Bottom": 6,
+          "Left": 6
+        },
+        "Insets": {
+          "Top": 3,
+          "Right": 3,
+          "Bottom": 3,
+          "Left": 3
+        }
+      }
+    },
+    "ActionContainer": {
+      "Frame": {
+        "Source": "assets/action-frame.png",
+        "Mode": "nineSlice",
+        "Slice": {
+          "Top": 6,
+          "Right": 6,
+          "Bottom": 6,
+          "Left": 6
+        },
+        "Insets": {
+          "Top": 3,
+          "Right": 3,
+          "Bottom": 3,
+          "Left": 3
+        }
+      }
+    }
+  },
+  "AppBorderWidth": 0,
+  "AppBorderRadius": 0
+}
