@@ -8,4 +8,8 @@ For the best pixel-art look, install Fusion Pixel Font and select it under **Set
 
 Requires **Wox v2.4.5**
 
-Run `make build` to create `8bit.wox-theme`, then open it with Wox to install.
+## Install
+
+query in Wox
+
+`theme 8bit`
